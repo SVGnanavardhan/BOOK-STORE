@@ -76,11 +76,6 @@ npm test
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-🔗 Drive : https://drive.google.com/drive/folders/1cdVMCo9TqlWRkPG76JBZw_PQ6Ln7_mbY?usp=sharing
 🌐 Live Demo : https://youtu.be/PG8lyu4RXuA?si=dbXaAaEoYLM84WdO 
 
 ---
